@@ -1,0 +1,203 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 43px;
+  max-width: 1050px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+#num-1 {
+  width: 492px;
+  color: #000;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 45px;
+  margin-top: 94px;
+}
+#num-2 {
+  width: 783px;
+  color: #000;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.qubit {
+  width: 996px;
+  height: 560px;
+}
+.booking {
+  display: flex;
+  gap: 22px;
+}
+.btn {
+  display: inline-block;
+  width: 189px;
+  height: 40px;
+  color: white;
+  border-radius: 30px;
+  background: #6f2cff;
+}
+.btn-1 {
+  display: inline-block;
+  width: 187px;
+  height: 40px;
+  border-radius: 30px;
+  background: #fff;
+  color: #6f2cff;
+  box-shadow: none;
+}
+.trust {
+  width: 507px;
+  margin-top: 182px;
+  color: #000;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 45px;
+}
+.reklama {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+}
+.clin {
+  background: #f5f5f5;
+}
+.clin p {
+  color: #6f2cff;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  margin: 25px 67px 60px 68px;
+}
+.clin img {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.river {
+  background: #f5f5f5;
+}
+.river img {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.river p {
+  width: 219px;
+  color: #6f2cff;
+  text-align: center;
+  font-size: 18px;
+  margin: 30px 50px 52px 51px;
+  font-weight: 700;
+}
+.mand {
+  background: #f5f5f5;
+}
+.mand img {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.mand p {
+  width: 219px;
+  color: #6f2cff;
+  text-align: center;
+  font-size: 18px;
+  margin: 30px 54px 55px 50px;
+  font-weight: 700;
+}
+.in {
+  margin: 169px 433px 0px 433px;
+  width: 480px;
+  color: #000;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 45px;
+}
+.industry {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 30px;
+  gap: 40px;
+}
+.beauty {
+  color: white;
+  border-radius: 8px 10px 10px 8px;
+  background: #17002e;
+  width: 450.857px;
+  height: 199px;
+  padding: 30px 32px;
+}
+.cos {
+  display: flex;
+  gap: 30px;
+}
+.Fashion {
+  color: white;
+  border-radius: 8px 10px 10px 8px;
+  background: #17002e;
+  width: 450.857px;
+  height: 199px;
+  padding: 30px 32px;
+}
+.sup {
+  display: flex;
+  gap: 30px;
+}
+.lux {
+  color: white;
+  border-radius: 8px 10px 10px 8px;
+  background: #17002e;
+  width: 450.857px;
+  height: 199px;
+  padding: 30px 32px;
+}
+.drive {
+  display: flex;
+  gap: 30px;
+}
+.Air {
+  color: white;
+  border-radius: 8px 10px 10px 8px;
+  background: #17002e;
+  width: 450.857px;
+  height: 199px;
+  padding: 30px 32px;
+}
+.boost {
+  display: flex;
+  gap: 30px;
+}
+.travel {
+  color: white;
+  border-radius: 8px 10px 10px 8px;
+  background: #17002e;
+  width: 450.857px;
+  height: 199px;
+  padding: 30px 32px;
+}
+.tourism {
+  display: flex;
+  gap: 30px;
+}
+.online {
+  color: white;
+  border-radius: 8px 10px 10px 8px;
+  background: #17002e;
+  width: 450.857px;
+  height: 199px;
+  padding: 30px 32px;
+}
+.bet {
+  display: flex;
+  gap: 30px;
+}
